@@ -1,0 +1,123 @@
+<ROSTER>
+	<PLAYER>
+		<NUMBER>
+			1
+		</NUMBER>
+		<NAME>
+		Claudio Bravo
+		</NAME>
+		<POSITION>
+			GK
+		</POSITION>
+	</PLAYER>
+	<PLAYER>
+		<NUMBER>
+			4
+		</NUMBER>
+		<NAME>
+			Mauricio Isla
+		</NAME>
+		<POSITION>
+			RB
+		</POSITION>
+	</PLAYER>
+	<PLAYER>
+		<NUMBER>
+			17
+		</NUMBER>
+		<NAME>
+			Gary Medel 
+		</NAME>
+		<POSITION>
+			CB
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			18
+		</NUMBER>
+		<NAME>
+			Gonzalo Jara 
+		</NAME>
+		<POSITION>
+			CB
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			15
+		</NUMBER>
+		<NAME>
+			Jean Beausejour 
+		</NAME>
+		<POSITION>
+			LB
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			21
+		</NUMBER>
+		<NAME>
+			Marcelo Diaz 
+		</NAME>
+		<POSITION>
+			CM
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			20
+		</NUMBER>
+		<NAME>
+			Charles Aranguiz 
+		</NAME>
+		<POSITION>
+			CM
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			8
+		</NUMBER>
+		<NAME>
+			Arturo Vidal 
+		</NAME>
+		<POSITION>
+			CM
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			28
+		</NUMBER>
+		<NAME>
+			Jose Pedro Fuenzalida
+		</NAME>
+		<POSITION>
+			RW
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			7
+		</NUMBER>
+		<NAME>
+			Alexis Sanchez 
+		</NAME>
+		<POSITION>
+			LW
+		</POSITION>
+	</PLAYER>
+		<PLAYER>
+		<NUMBER>
+			11
+		</NUMBER>
+		<NAME>
+			Eduardo Vargas 
+		</NAME>
+		<POSITION>
+			ST
+		</POSITION>
+	</PLAYER>
+</ROSTER>
