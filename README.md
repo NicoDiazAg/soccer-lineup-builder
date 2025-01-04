@@ -1,5 +1,5 @@
 # Soccer Lineup Builder
-This Java application was our final project for our Software Development class. I worked on it with my classmate Vicente Lyon (https://github.com/VicenteLyon). We used EclipseIDE.
+This Java application was our final project for our Software Development class. I worked on it with my classmate Vicente Lyon (https://github.com/VicenteLyon). We used Eclipse IDE.
 
 It consists of a Soccer Lineup Builder that accepts multiple simultaneous coach connections by using threads. It allows coaches to select and add players from a preloaded XML file onto a soccer field canvas, where they can drag them and come up with a lineup that they can save afterward.
 
