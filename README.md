@@ -1,7 +1,7 @@
 # Soccer Lineup Builder
 This Java application was our final project for our Software Development class. I worked on it with my classmate Vicente Lyon (https://github.com/VicenteLyon). We used EclipseIDE.
 
-It consists of a Soccer Lineup Builder that accepts multiple simultaneos coach connections through the usage of threads. It allows coaches to select and add players from a preloaded XML file onto a soccer field canvas, where they can drag them and come up with a lineup that the can save afterwards.
+It consists of a Soccer Lineup Builder that accepts multiple simultaneous coach connections by using threads. It allows coaches to select and add players from a preloaded XML file onto a soccer field canvas, where they can drag them and come up with a lineup that they can save afterward.
 
 To open and run it using Eclipse, please follow these steps:
 
@@ -11,7 +11,7 @@ Import all of the files in an empty project. Include all of the .java files and 
 
 ![image](https://github.com/user-attachments/assets/95241a24-b7d6-409f-80f5-13bf27be0980)
 
-2.- Run the SoccerLineupBuilder.java class. This class starts the program by setting a login scene. Here, you will enter a server address (in case you are running coach clients in the same device you can leave this as localhost), and the port, which for now we can leave as it is. Here you can enter your coach name, which will be displayed after in the main scene.
+2.- Run the SoccerLineupBuilder.java class. This class starts the program by setting a login scene. Here, you will enter a server address (in case you are running coach clients on the same device you can leave this as localhost), and the port, which for now we can leave as it is. Here you can enter your coach name, which will be displayed after in the main scene.
 
 ![image](https://github.com/user-attachments/assets/7234bfff-daf9-43f7-926b-7334a60f3797)
 
